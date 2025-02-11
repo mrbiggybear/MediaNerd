@@ -1,0 +1,15 @@
+
+# /media_brain/sources
+!/media_brain/sources/**.py */
+!*/*.py
+.vscode/
+# if know a better way to ignore
+# all but a specific file type 
+# let me know.
+media_brain/sources/**/*.csv
+media_brain/sources/**/*.css
+media_brain/sources/**/*.js
+media_brain/sources/**/*.json
+media_brain/sources/**/*.jpg
+media_brain/sources/**/*.png
+media_brain/sources/**/*.html
